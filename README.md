@@ -52,9 +52,8 @@ CREATE DATABASE amk;
 Open .development.env and update the following:
 TYPEORM_USERNAME=your_db_username
 TYPEORM_PASSWORD=your_db_password
-```
-
 Make sure the username/password match your local PostgreSQL credentials.
+
 ### 5. Run Database Migrations
 ```bash
 npm run typeorm:run
