@@ -67,3 +67,7 @@ npm run start:dev
 ### 7. Access the API Documentation
 Once the server is running, open your browser and navigate to:
 http://localhost/amk-swagger-docs
+
+### 8. Access the WebSocket Service
+Open your postman or any WebSocket client and connect to:
+ws://localhost:3000/location
